@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Xoriant",
+    "startDate": "Feb, 2022",
+    "endDate": "Present",
+    "experiences": ["Designed and developed full stack web applications", "Implemented server-side rendering"],
+    "imageSrc": "history/xoriant.png"
+  },
+  {
+    "role": "Technology Consultant - Associate",
+    "organisation": "Virtusa",
+    "startDate": "Jan, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": ["Developed scalable and reusable UI components", "Optimized website's performance for mobile devices"],
+    "imageSrc": "history/virtusa.png"
+  },
+  {
+    "role": "UI Developer",
+    "organisation": "Eagle TK Info-tech",
+    "startDate": "March, 2018",
+    "endDate": "Jan, 2020",
+    "experiences": ["Developed complex e-commerce websites", "Implementing responsive design principles"],
+    "imageSrc": "history/"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Siemens",
+    "startDate": "July, 2015",
+    "endDate": "March, 2018",
+    "experiences": [
+      "Active workspace is a Teamcenter web client, it allows users users to edit product data and process 3D designs, embedded software and documentation",
+      "I worked on migrating Java(GWT) code to Angular & reduced 1000+ lines of code"
+    ],
+    "imageSrc": "history/siemens.png"
+  }
+]
